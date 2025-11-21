@@ -1,0 +1,10 @@
+<!-- res/drawable/ic_bike.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M18,18m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0 M6,18m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0 M15,9l-3,3H9V9h6zM12,6a2,2 0,1 0,0 4,2,2 0,0 0,0 -4z"/>
+</vector>

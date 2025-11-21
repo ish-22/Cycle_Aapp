@@ -1,0 +1,10 @@
+<!-- res/drawable/ic_register.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M16,2H8v2H6v18h12V4h-2V2zM10,6h4v2h-4V6zM10,10h4v2h-4V10zM10,14h2v2h-2V14z"/>
+</vector>

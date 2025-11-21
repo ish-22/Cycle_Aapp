@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#FFFFFF"
+    android:layout_marginBottom="5dp">
+
+    <TextView
+        android:id="@+id/rentalTypeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#2E7D32"/>
+
+    <TextView
+        android:id="@+id/rentalStationTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#388E3C"/>
+
+    <TextView
+        android:id="@+id/rentalStartTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#388E3C"/>
+
+    <TextView
+        android:id="@+id/rentalEndTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#388E3C"/>
+
+    <TextView
+        android:id="@+id/rentalDurationTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#388E3C"/>
+
+    <TextView
+        android:id="@+id/rentalAmountTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#388E3C"/>
+</LinearLayout>
